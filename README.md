@@ -1,4 +1,4 @@
-# FirstGitProject
+cd# FirstGitProject
 This is my first Git Repository.
 <br>
-Author - Deepali Tyagi
+Author - Deepali Tyagi (Beginner)
